@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Allwoods_Note_Taker_2021
+namespace Note_Taker_2022
 {
     public partial class Form1 : Form
     {
